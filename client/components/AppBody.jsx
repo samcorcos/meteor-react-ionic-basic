@@ -18,4 +18,4 @@ AppBody = React.createClass({
       </div>
     )
   }
-})
+});
